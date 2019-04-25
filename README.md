@@ -9,7 +9,7 @@ NPM
 
 ### Installation
 Run `npm install` to get required package dependancy
-Use `npm run` to start the API on port 3000
+Use `npm start` to start the API on port 3000
 
 ## Built With
 * [Express](http://expressjs.com/en/4x/api.html) - Fast, unopinionated, minimalist web framework for Node.js
